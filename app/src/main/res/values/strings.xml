@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">City of Indonesia</string>
+    <string name="cities_name">City Name</string>
+    <string name="description">Description</string>
+    <string name="city_of_indonesia">CITY OF INDONESIA</string>
+    <string name="about_me">About Me</string>
+    <string name="my_name">Husain Rahmani</string>
+    <string name="my_email">sainrahmani12@gmail.com</string>
+    <string-array name="data_city_names">
+        <item>Aceh Singkil</item>
+        <item>Kabupaten Bangli</item>
+        <item>Kabupaten Jombang</item>
+        <item>Kabupaten Kuningan</item>
+        <item>Maluku Barat Daya</item>
+        <item>Balikpapan</item>
+        <item>Cimahi</item>
+        <item>Kota Cirebon</item>
+        <item>Kota Jayapura</item>
+        <item>Yogyakarta</item>
+    </string-array>
+    <string-array name="data_city_logos">
+        <item>@drawable/aceh_singkil</item>
+        <item>@drawable/kabupaten_bangli</item>
+        <item>@drawable/kabupaten_jombang</item>
+        <item>@drawable/kabupaten_kuningan</item>
+        <item>@drawable/kabupaten_maluku_barat_daya</item>
+        <item>@drawable/kota_balikpapan</item>
+        <item>@drawable/kota_cimahi</item>
+        <item>@drawable/kota_cirebon</item>
+        <item>@drawable/kota_jayapura</item>
+        <item>@drawable/kota_yogyakarta</item>
+    </string-array>
+    <string-array name="data_city_description">
+        <item>Aceh Singkil adalah salah satu kabupaten di Provinsi Aceh, Indonesia.[8][9] Kabupaten Aceh Singkil merupakan pemekaran dari Kabupaten Aceh Selatan dan sebagian wilayahnya berada di kawasan Taman Nasional Gunung Leuser. Kabupaten ini juga terdiri dari dua wilayah, yakni daratan dan kepulauan. Kepulauan yang menjadi bagian dari kabupaten Aceh Singkil adalah Kepulauan Banyak. Ibu kota kabupaten Aceh Singkil terletak di kecamatan Singkil.</item>
+        <item>Bangli (aksara Bali: ᬩᬗ᭄ᬮᬶ) adalah sebuah wilayah kabupaten yang terletak di provinsi Bali, Indonesia. Ibu kotanya adalah Kecamatan Bangli. Kabupaten Bangli adalah satu-satunya kabupaten di provinsi Bali yang tidak memiliki wilayah laut atau berbatasan langsung dengan laut, sehingga Bangli tidak memiliki pantai di tepi laut.[8] Kabupaten Bangli berbatasan dengan Kabupaten Buleleng di sebelah Utara, kabupaten Klungkung dan Karangasem di Timur, dan Kabupaten Klungkung, Gianyar di Selatan serta Badung dan Gianyar di sebelah Barat.</item>
+        <item>Jombang (Jawa: Hanacaraka: ꦗꦺꦴꦩ꧀ꦧꦁ, Pegon: جَومباڠ) adalah sebuah kabupaten yang terletak di bagian tengah Provinsi Jawa Timur, Indonesia. Ibu kotanya adalah Kecamatan Jombang. Kabupaten Jombang memiliki ketinggian 44 meter di atas permukaan laut, dan berjarak 79 km dari barat daya Surabaya, ibu kota Provinsi Jawa Timur. Luas wilayah kabupaten Jombang yakni 1.159,50 km². Pada tahun 2021, penduduk Jombang mencapai 1.325.914 jiwa, dengan kepadatan penduduk 1.143 jiwa/km2.</item>
+        <item>Kabupaten Kuningan (aksara Sunda:ᮊᮥᮔᮤᮍᮔ᮪) adalah sebuah wilayah kabupaten yang terletak di Provinsi Jawa Barat, Indonesia. Ibu kotanya adalah Kecamatan Kuningan. Berjarak 150 km dari Kota Bandung dan 43 km dari Kota Cirebon, kabupaten ini berbatasan dengan Kabupaten Cirebon di utara, Kabupaten Brebes (Jawa Tengah) di timur, Kabupaten Ciamis dan Kabupaten Cilacap (Jawa Tengah) di Selatan, dan Kabupaten Majalengka di barat. Kabupaten ini dikenal karena merupakan tempat dilaksanakannya Perundingan Linggajati. Di kecamatan Cigugur, beberapa warga merupakan penganut penghayat kepercayaan Sunda Wiwitan.</item>
+        <item>Kabupaten Maluku Barat Daya adalah sebuah kabupaten yang berada di provinsi Maluku, Indonesia. Ibu kotanya berada di kelurahan Tiakur salah satu kelurahan di kecamatan Moa Lakor. Kabupaten ini dibentuk berdasarkan Undang-Undang Nomor 31 Tahun 2008 yang merupakan pemekaran dari Kabupaten Kepulauan Tanimbar.</item>
+        <item>Balikpapan adalah sebuah kota di provinsi Kalimantan Timur, Indonesia. Sebagai pusat bisnis dan industri, kota ini memiliki perekonomian terbesar di seluruh Kalimantan, dengan total PDRB mencapai Rp79,65 triliun pada tahun 2016. Dari sisi kependudukan, Balikpapan adalah kota terbesar kedua di Kalimantan Timur (setelah Kota Samarinda) dengan total penduduk sebanyak 645.727 pada tahun 2018 dan pada tahun 2019 berjumlah 655.178 jiwa. Balikpapan merupakan salah satu dari 3 gerbang menuju ibu kota Indonesia yang baru, dengan keberadaan Pelabuhan Semayang (tersibuk kedua setelah Pelabuhan Samarinda) dan Bandar Udara Internasional Sultan Aji Muhammad Sulaiman yang merupakan kota tersibuk ketiga di Kalimantan, setelah Banjarmasin dan Pontianak.</item>
+        <item>Kota Cimahi adalah sebuah kota yang berada di Jawa Barat, Indonesia. Sebelumnya kota ini masih menjadi bagian dari Kabupaten Bandung hingga ditetapkan sebagai kota administratif pada 29 Januari 1976 dan akhirnya ditetapkan sebagai kota pada 21 Juni 2001. Kota Cimahi terdiri atas 3 kecamatan dan 15 kelurahan.</item>
+        <item>Kota Cirebon (Carakan : ꦕꦶꦉꦧꦺꦴꦤ꧀), (Aksara Sunda : ᮊᮧᮒ ᮎᮤᮛᮨᮘᮧᮔ᮪) adalah salah satu kota yang berada di provinsi Jawa Barat, Indonesia. Kota ini berada di pesisir utara Pulau Jawa yang menghubungkan Jakarta dengan Surabaya di lintas utara dan tengah Jawa. Pada tahun 2021, jumlah penduduk kota Cirebon sebanyak 346.438 jiwa, dengan kepadatan 9.194 jiwa/km2. Pada awalnya Cirebon berasal dari kata sarumban, Cirebon adalah sebuah dukuh kecil yang dibangun oleh Ki Gedeng Tapa. Lama-kelamaan Cirebon berkembang menjadi sebuah desa yang ramai yang kemudian diberi nama Caruban (carub dalam bahasa Jawa artinya bersatu padu). Diberi nama demikian karena di sana bercampur para pendatang dari beraneka bangsa di antaranya Jawa, Sunda, Tionghoa, dan unsur-unsur budaya bangsa Arab), agama, bahasa, dan adat istiadat. kemudian pelafalan kata caruban berubah lagi menjadi carbon dan kemudian cirebon.</item>
+        <item>Kota Jayapura adalah sebuah kota dan juga ibu kota dari Provinsi Papua, Indonesia. Kota ini merupakan ibu kota provinsi yang terletak paling Timur di Indonesia, dan berbatasan langsung dengan negara tetangga Papua Nugini, yang terletak di Teluk Jayapura. Kota ini didirikan oleh Kapten Infanteri F.J.P. Sachse dari kerajaan Belanda pada 7 Maret 1910. Dari tahun 1910 ke 1962, kota ini dikenal sebagai Hollandia merupakan ibu kota distrik dengan nama yang sama di timur laut pulau Papua bagian barat.</item>
+        <item>Kota Yogyakarta (Jawa: ꦔꦪꦺꦴꦒꦾꦏꦂꦠ, translit. Ngayogyakarta, pengucapan bahasa Jawa: [kuʈɔ ŋajogjɔˈkart̪ɔ], atau dikenal oleh masyarakat setempat dengan sebutan nama Yogya atau Jogja) adalah ibu kota daerah istimewa sekaligus pusat pemerintahan dan perekonomian dari Daerah Istimewa Yogyakarta, Indonesia. Kota ini adalah kota besar yang mempertahankan konsep tradisional dan budaya Jawa. Salah satu kemantren di Yogyakarta, yaitu Kotagede pernah menjadi pusat Kesultanan Mataram antara kurun tahun 1575–1640. Kini, Yogyakarta menjadi tempat tinggal dua penerus Mataram, yakni Sultan Hamengkubuwana dan Adipati Paku Alam, yang berada di Keraton Ngayogyakarta dan Pura Pakualaman.</item>
+    </string-array>
+</resources>
